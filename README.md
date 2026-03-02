@@ -1,4 +1,7 @@
-# tadataka
+# 👣 tadataka
+
+> 🚶 Inō Tadataka walked 🗾 Japan's entire coastline — step by step — to draw its first accurate map.
+> These skills walk your code so you don't have to.
 
 A monorepo of AI coding assistant skills for mobile development.
 
@@ -6,7 +9,7 @@ A monorepo of AI coding assistant skills for mobile development.
 
 | Skill | Description |
 |---|---|
-| [cartographer](./skills/cartographer) | iOS and Android UI element discovery and navigation mapping using [agent-device](https://github.com/callstackincubator/agent-device) CLI |
+| 🗺️ [cartographer](./skills/cartographer) | iOS and Android UI element discovery and navigation mapping using [agent-device](https://github.com/callstackincubator/agent-device) CLI |
 
 ## Install
 
